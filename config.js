@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dupxgzqz4/video/upload/v1769975838/MERE_WARGI_REMIX___SURJIT_BINDRAKHIA_SMOKE_RIDE_Punjabi_Songs_2025_bdkue6.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
